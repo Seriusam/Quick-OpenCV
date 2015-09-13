@@ -7,11 +7,11 @@ By using this program you can directly start working on your openCV proccess ins
  - You need to import openCV files in order to start working with the code!
  - You should write your openCV process under the function named whatToDoFunc
  
-	whatToDoFunc(){
-		//Write your functions here
+ whatToDoFunc(){
+   //Write your functions here
 
-		//End of whatToDoFunc
-	}
+   //End of whatToDoFunc
+ }
 
  - You have to use the variable named 'image' as a start.
 	static Mat image;
