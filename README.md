@@ -1,6 +1,6 @@
 ﻿#Quick-OpenCV
 
-By using this program you can directly start working on your openCV proccess instead of wasting time with swing stuff.
+By using this program you can directly start working on your openCV project instead of wasting time on GUI with swing.
 
 ##How-to
  - Import the project to eclipse workspace
